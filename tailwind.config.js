@@ -10,7 +10,7 @@ module.exports = {
       },
       colors: {
           blue: {
-            400: '#3D15B0',
+            400: '#1968B1',
             600: '#81D8F7',
           },
           orange: {
